@@ -1,4 +1,4 @@
-# 🔎 Ntwork Port Scanner (Python)
+# 🔎 Network Port Scanner (Python)
 
 A fast, multi-threaded **TCP port scanning tool** built for reconnaissance, network enumeration, and OSCP-style labs.
 This scanner supports **custom port ranges**, **banner grabbing**, **randomized scan order (IDS evasion)**, and **JSON/TXT reporting**.
